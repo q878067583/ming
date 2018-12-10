@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="refresh" content="3; URL=http://m.hfchzyy.net/" />
+<meta name="keywords" content="合肥长淮中医医院,合肥长淮中医院,长淮中医院,合肥中医院" />
+<meta name="description" content="合肥长淮中医医院以中医为特色的'专家型、技术型、学术型'中医院,汇聚国家级,省级名老中医,以多学科的综合优势享誉全国.预约挂号0551-65215555." />
+<meta name="generator" content="DouPHP v1.3" />
+<title>合肥长淮中医医院,合肥好的中医院,合肥市医保定点医院[官网]</title>
+<link href="http://m.hfchzyy.net/theme/default/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://m.hfchzyy.net/theme/default/images/jquery.min.js"></script>
+<script type="text/javascript" src="http://m.hfchzyy.net/theme/default/images/global.js"></script>
+</head>
+<body>
+<div id="wrapper"> <header class="wap-header">
+	<div class="header-logo">
+		<a href="/" class="logo"></a>
+		<a live-show="call" class="callBtn"></a>
+		<span class="navHome"></span>
+	</div>
+	<div class="header-info">
+		<span><i>★</i>合肥市医保定点医院</span>
+		<span><i>★</i>国家二级综合性中医院</span>
+	</div>
+</header> <div id="douMsg" class="wrap">
+  <dl>
+   <dt>页面不存在！</dt>
+   <dd>如果您不做出选择，将在 3 秒后跳转到上一页面，您也可以手动点击<a href="http://m.hfchzyy.net/">返回上一页</a></dd>
+  </dl>
+ </div>
+  <!-- 底部 -->
+<link rel="stylesheet" type="text/css" href="http://m.hfchzyy.net/theme/default/images/footer-3.css">
+<footer class="wap-footer">
+	<div class="footer-list">
+		<a href="http://dat.zoosnet.net/LR/Chatpre.aspx?id=DAT95200887&lng=cn"><span><i></i></span>长淮微信</a>
+		<a href="http://dat.zoosnet.net/LR/Chatpre.aspx?id=DAT95200887&lng=cn"><span><i></i></span>长淮微博</a>		
+		<a href="http://dat.zoosnet.net/LR/Chatpre.aspx?id=DAT95200887&lng=cn"><span><i></i></span>医保指南</a>
+		<a href="http://dat.zoosnet.net/LR/Chatpre.aspx?id=DAT95200887&lng=cn"><span><i></i></span>就诊流程</a>		
+	</div>
+	<div class="footer-loc">
+		<p>医院地址：合肥市蜀山区金寨路161号（与黄山路交叉口）</p>            
+		<p>健康热线：<span>0551-65215555</span></p>
+	</div>
+	<div class="footer-nav">
+		<a href="/"><i></i><span>网站首页</span></a>
+		<a href="http://dat.zoosnet.net/LR/Chatpre.aspx?id=DAT95200887&lng=cn"><i></i><span>在线咨询</span></a>
+		<a class="booking"><i></i><span>快速预约</span></a>
+		<a href="tel:0551-65215555"><i></i><span>免费电话</span></a>
+		<a href="/luxian.html"><i></i><span>来院路线</span></a>
+	</div>
+</footer>
+<!-- 底部End -->
+<!-- 侧边栏 -->
+<div id="nav-over"></div>
+<nav id="nav" class="nav home">
+	<h3><a href="/" class="ico"></a></h3>  
+	<div class="scrollerBox">
+		<div class="swiper-container swiper-nav">
+			<div class="swiper-wrapper">
+				<div class="swiper-slide">
+					<ul>
+												<li><a href="http://m.hfchzyy.net/about.html"><i style="background-position: 0 0" class="ico"></i>医院简介<b class="ico"></b></a></li>
+												<li><a href="http://m.hfchzyy.net/yishi"><i style="background-position: 0 -30px;" class="ico"></i>医师介绍<b class="ico"></b></a></li>
+												<li><a href="http://m.hfchzyy.net/new"><i style="background-position: 0 -60px;" class="ico"></i>新闻动态<b class="ico"></b></a></li>
+											</ul>
+				</div>
+			</div>
+			<!-- Add Scroll Bar -->
+			<div class="swiper-scrollbar"></div>
+		</div>
+	</div>
+</nav>
+<!-- 左则菜单End -->
+<script type="text/javascript" src="http://m.hfchzyy.net/theme/default/images/jquery.min.js"></script>
+<script type="text/javascript">seajs.use("http://m.hfchzyy.net/theme/default/images/2017index.js");</script>
+<script src="http://m.hfchzyy.net/theme/default/images/layer/layer.js"></script>
+
+<script>
+
+var biaodan = "";
+
+
+	$(".booking").click(function(){	
+		
+		tanchuyy2();	
+	});
+	function tanchuyy2(){
+		layer.open({
+		  type: 1,
+		  title: false,
+		  area: ['90%'], //宽高
+		  content: '<div class="bajs-light-popup-content max-booking"><div class="max-booking-wrapper clearfix"><div class="bookingHead">快速预约</div><form class="bajs-ajax-form max-booking-form"><div class="bajs-ajax-form-content"><dl class="bajs-ajax-form-dl-xiangmu"><dt><b>*</b>选择科室：</dt><dd><select name="xiangmu2" class="text"><option value="">选择项目</option>'+biaodan+'</select><i></i></dd></dl><dl class="bajs-ajax-form-dl-name"><dt><b>*</b>姓　　名：</dt><dd><input type="text" placeholder="输入您的姓名" name="name2" maxlength="13" class="text"></dd></dl><dl class="bajs-ajax-form-dl-tel"><dt><b>*</b>电　　话：</dt><dd><input type="text" placeholder="输入您的电话号码" name="iphone2" maxlength="13" class="text"></dd></dl><dl class="bajs-ajax-form-dl-yuyuetime"><dt>来院时间：</dt><dd><input type="date" placeholder="选择预约时间" name="date2" class="text"></dd></dl><div class="bajs-ajax-form-action"><input type="button" class="bajs-ajax-form-sumit-btn submit tijiao2" value="提交"><input type="reset" class="bajs-ajax-form-reset-btn reset" value="重填"></div></div></form><div class="bookingNotice"><dl><dt>预约须知：</dt><dd><i>1</i>网络预约优先就诊，节省排队时间；</dd><dd><i>2</i>提交预约，5-10分钟左右客服将会给您电话回访确认预约详细内容，客服时间：8：00-22：00</dd></dl></div></div></div>'
+		});		
+	}
+	
+	
+	$(".tijiao").click(function(){
+		var xiangmu = $("select[name='xiangmu']").val();
+		var name = $("input[name='name']").val();
+		var iphone = $("input[name='iphone']").val();
+		var date = $("input[name='date']").val();
+		if(xiangmu == ""){
+			alert("请选择项目");
+			return false;
+		}else if(name ==""){
+			alert("请输入姓名");
+			return false;
+		}else if(iphone ==""){
+			alert("请输入手机");
+			return false;
+		}else if(date ==""){
+			alert("请输入时间");
+			return false;
+		}
+		var myreg = /^(((13[0-9]{1})|(15[0-9]{1})|(18[0-9]{1}))+\d{8})$/; 
+		if(!myreg.test(iphone)) 
+		{ 
+			alert('请输入有效的手机号码！'); 
+			return false; 
+		} 
+		
+		$.post("/guestbook.php?rec=insert&ib=wap",{keshi:xiangmu,name:name,iphone:iphone,date:date},function(result){
+			
+			if(result ==1){
+				$(".reset").click();
+				alert("提交成功！");
+			}else{
+				alert("error");
+			}
+		});
+		return false;
+		
+	});
+
+	$(".tijiao2").live("click",function(){
+		var xiangmu = $("select[name='xiangmu2']").val();
+		var name = $("input[name='name2']").val();
+		var iphone = $("input[name='iphone2']").val();
+		var date = $("input[name='date2']").val();
+		if(xiangmu == ""){
+			alert("请选择项目");
+			return false;
+		}else if(name ==""){
+			alert("请输入姓名");
+			return false;
+		}else if(iphone ==""){
+			alert("请输入手机");
+			return false;
+		}else if(date ==""){
+			alert("请输入时间");
+			return false;
+		}
+		var myreg = /^(((13[0-9]{1})|(15[0-9]{1})|(18[0-9]{1}))+\d{8})$/; 
+		if(!myreg.test(iphone)) 
+		{ 
+			alert('请输入有效的手机号码！'); 
+			return false; 
+		} 
+		
+		$.post("/guestbook.php?rec=insert&ib=wap",{keshi:xiangmu,name:name,iphone:iphone,date:date},function(result){
+			
+			if(result ==1){
+				$(".reset").click();
+				alert("提交成功！");
+			}else{
+				alert("error");
+			}
+		});
+		return false;
+		
+	});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script> </div>
+</body>
+</html>

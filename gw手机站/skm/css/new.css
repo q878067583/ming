@@ -1,0 +1,21 @@
+*{font-family:arial;}
+body,html,h1,h2,h3,h4,h5,h6,p,em,i,form,ul,li,dl,dt,dd,figure{padding:0;margin:0;}
+body{position:relative;font-size:12px;background-color:#f3f3f3;-webkit-text-size-adjust:none;-moz-text-size-adjust:none;-ms-text-size-adjust:none;text-size-adjust:none;}
+html,body{width:100%;}
+em,u,i,b{font-style:normal;font-weight:normal;text-decoration:none;}
+ul,li{list-style:none;}
+h3{font-size:14px;}
+a{text-decoration:none;outline:none;color:#2b2a2a;}
+a:hover{}
+a img{border:none;display:block;}
+input[type="text"],input.text{padding:0 0 0 3px;}
+
+
+.ny_body{  line-height:28px; font-size:14px;padding-right:5px;max-width:650px;width:100%; background-color:#fff;margin-left:auto;margin-right:auto;}
+.newslist{}
+/*.newslist li{  padding:5px 14px 0 85px; border-bottom:1px dashed #c6c6c6; line-height:28px; }*/
+.newslist li{  padding:5px 14px 0 5px; border-bottom:1px dashed #c6c6c6; line-height:28px; }
+
+/*.newslist li span{ position:relative; font-size:12px; color:#adadad; margin-left:-80px;margin-right:10px;}*/
+.newslist li span{ position:relative; font-size:12px; color:#adadad; margin-left:-5px;margin-right:10px;}
+.newslist li font{display:none;}

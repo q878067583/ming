@@ -1,0 +1,63 @@
+@charset "gb2312";
+select,input,textarea{outline:none;resize:none;-webkit-appearance:none;}
+/* MaxBooking */
+.max-booking .bajs-light-popup-origin{box-shadow:0 0 10px rgba(0,0,0,0.5);}
+.max-booking .bajs-light-popup-origin .max-booking-wrapper{overflow:hidden;}
+.max-booking .bajs-light-popup-origin .bajs-light-popup-close{width:32px;height:32px;border-radius:50%;overflow:hidden;right:-14px;top:-14px;background:url('ico.png') no-repeat 0 0;-webkit-transform:rotate(0);transform:rotate(0);transition:transform 0.25s ease-in-out,-webkit-transform 0.25s ease-in-out;}
+.max-booking .bajs-light-popup-origin .bajs-light-popup-close:hover{-webkit-transform:rotate(180deg);transform:rotate(180deg);}
+.max-booking .bajs-light-popup-origin .bajs-light-popup-content{background-color:#fff;}
+.max-booking .bajs-light-popup-container{overflow:hidden;}
+.max-booking .max-booking-wrapper{padding:10px;}
+.max-booking .max-booking-form{width:260px;display:inline;}
+.max-booking .max-booking-form dl{position:relative;height:35px;padding-bottom:15px;margin:0;}
+.max-booking .max-booking-form dl dt b{color:#f00;font-size:12px;padding-right:4px;font-weight:bold;}
+.max-booking .max-booking-form dl dt{position:absolute;left:0;top:0;width:80px;white-space:nowrap;font-size:14px;line-height:35px;text-align:right;}
+.max-booking .max-booking-form dl dd{position:relative;height:35px;padding-left:80px;margin:0;width:180px;}
+.max-booking .max-booking-form dl dd .text{background-color:#f2f2f2;border:solid 1px #cfcfcf;border-radius:2px;font-size:14px;transition:all 0.2s ease-in-out;-webkit-transition:all 0.2s ease-in-out;font-family:"Microsoft Yahei",Tahoma;box-shadow:0 1px 1px rgba(0,0,0,0.1) inset;}
+.max-booking .max-booking-form dl dd .text:focus,.max-booking-form dl dd .text.onFocus{border-color:#6eaa24;background-color:#fff;}
+.max-booking .max-booking-form dl dd select.text{width:180px;height:35px;background:url(../images/seleBg.jpg) right center no-repeat #fff;background-size:27px auto;padding:6px 6px 6px 4px;}
+.max-booking .max-booking-form dl dd i{width:27px;height:24px;background:url(../images/seleBg.jpg) right center no-repeat #fff;background-size:27px auto;display:none;position:absolute;right:1px;top:50%;margin-top:-12px;}
+.max-booking .max-booking-form dl dd input.text{width:174px;padding:0 0 0 4px;height:33px;background-color:#fff;line-height:33px;}
+.max-booking .max-booking-form .bajs-ajax-form-action{padding-left:80px;overflow:hidden;padding-bottom:10px;}
+.max-booking .max-booking-form .submit,.max-booking .max-booking-form .reset{width:48%;height:26px;font-size:13px;color:#fff;border:0;border-radius:1px;}
+.max-booking .max-booking-form .submit{float:left;background-color:#720A0A;}
+.max-booking .max-booking-form .reset{float:right;background-color:#d1c0a5}
+
+.max-booking-wrapper .bookingHead{text-align:left;line-height:28px;color:#720A0A;font-size:18px;font-weight:bold;padding-bottom:8px;}
+
+.max-booking-wrapper .bookingNotice{line-height:20px;background-color:#f6f6f6;padding:10px 15px;}
+.max-booking-wrapper .bookingNotice dl dt{color:#720A0A;font-weight:bold;padding-bottom:5px;}
+.max-booking-wrapper .bookingNotice dl dd{line-height:20px;text-align:left;padding-left:20px;position:relative;}
+.max-booking-wrapper .bookingNotice dl dd i{width:14px;height:14px;font:12px/14px arial;text-align:center;color:#fff;border-radius:3px;background-color:#720A0A;display: block;position:absolute;left:0;top:3px;}
+
+.page-booking .bajs-ajax-form{padding:10px 0;overflow:hidden;}
+.page-booking .bajs-ajax-form dl{position:relative;padding-bottom:8px;}
+.page-booking .bajs-ajax-form dl dt{line-height:28px;position:absolute;left:0;top:0;}
+.page-booking .bajs-ajax-form dl dd{padding-left:70px;padding-right:5px;position:relative;}
+.page-booking .bajs-ajax-form dl dd input.text{width:100%;height:26px;border:#d7d7d7 solid 1px;background-color:#fff;padding:0;}
+.page-booking .bajs-ajax-form dl dd input[type="date"]{padding-left:1px}
+.page-booking .bajs-ajax-form dl dd select.text{width:100%;height:26px;border:#d7d7d7 solid 1px;background:url(../images/seleBg.jpg) right center no-repeat #fff;background-size:27px auto;}
+.page-booking .bajs-ajax-form dl dd i{width:27px;height:24px;background:url(../images/seleBg.jpg) right center no-repeat #fff;background-size:27px auto;display:none;position:absolute;right:6px;top:50%;margin-top:-12px;}
+.page-booking .bajs-ajax-form .bajs-ajax-form-action{padding-left:70px;overflow:hidden;}
+.page-booking .bajs-ajax-form input.submit,.page-booking .bajs-ajax-form input.reset{width:49%;height:26px;font-size:13px;color:#fff;border:0;border-radius:1px;}
+.page-booking .bajs-ajax-form input.submit{float:left;background-color:#6ea340;}
+.page-booking .bajs-ajax-form input.reset{float:right;background-color:#c60e00;}
+.page-booking .bookingNotice{line-height:20px;background-color:#f6f6f6;padding:10px 0px;}
+.page-booking .bookingNotice dl dt{line-height:20px;color:#4f4f4f;}
+.page-booking .bookingNotice dl dd{line-height:20px;color:#4f4f4f;}  
+
+@-webkit-keyframes tada{
+    0%{-webkit-transform:scale(1);}
+    5%,10%{-webkit-transform:scale(0.8) rotate(-5deg);}
+    15%,25%,35%,45%{-webkit-transform:scale(1.1) rotate(5deg);}
+    20%,30%,40%{-webkit-transform:scale(1.1) rotate(-5deg);}
+    50%{-webkit-transform:scale(1) rotate(0);}
+}
+@-moz-keyframes tada{
+    0%{-moz-transform:scale(1);}
+    5%,10%{-moz-transform:scale(0.8) rotate(-5deg);}
+    15%,25%,35%,45%{-moz-transform:scale(1.1) rotate(5deg);}
+    20%,30%,40%{-moz-transform:scale(1.1) rotate(-5deg);}
+    50%{-moz-transform:scale(1) rotate(0);}
+}
+
