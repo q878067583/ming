@@ -108,8 +108,13 @@ margin-left:20px;
 .nav-content .s_nr {
     padding:10px;
 }
+.nav-content .center img {
+    width:50%;
+}
 
-
+.nav-content .s_nr .red{
+    color:red;
+}
 .articleCon iframe {
     width:100%;
 }
