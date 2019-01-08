@@ -366,7 +366,7 @@ text-align:justify;text-justify:distrubute;}
 .s_nr{ margin:0px 0 0 0; line-height:28px;text-align:justify;text-justify:distribute;font-size:14px;}
 .s_nr p { text-align:justify;text-justify:distribute;text-indent:28px;}
 .s_nr h1{font-size:20px; font-weight:bold;  color: #000;text-align: center;}
-.s_nr h2{font-size:16px; text-align: center;}
+.s_nr h2{font-size:16px; text-align: center;font-weight:800;}
 .s_nr h3{font-size:15px; text-align:left;}
 
 .s_nr .center {text-align:center;margin-left:auto;margin-right:auto;}

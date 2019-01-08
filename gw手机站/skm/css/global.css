@@ -115,6 +115,12 @@ margin-left:20px;
 .nav-content .s_nr .red{
     color:red;
 }
+.nav-content .s_nr .right{
+    /*float:right;*/
+    text-align:right;
+    margin-right:40px;
+}
+
 .articleCon iframe {
     width:100%;
 }
